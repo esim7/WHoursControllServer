@@ -1,0 +1,103 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ControlzEx/3.0.2.4": {
+        "runtime": {
+          "lib/net45/ControlzEx.dll": {
+            "assemblyVersion": "3.0.2.4",
+            "fileVersion": "3.0.2.4"
+          },
+          "lib/net45/System.Windows.Interactivity.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "3.0.40218.0"
+          }
+        }
+      },
+      "MahApps.Metro/1.6.0": {
+        "dependencies": {
+          "ControlzEx": "3.0.2.4"
+        },
+        "runtime": {
+          "lib/net45/MahApps.Metro.dll": {
+            "assemblyVersion": "1.6.0.362",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
+      "MaterialDesignColors/1.2.2": {
+        "runtime": {
+          "lib/netcoreapp3.0/MaterialDesignColors.dll": {
+            "assemblyVersion": "1.2.2.920",
+            "fileVersion": "1.2.2.920"
+          }
+        }
+      },
+      "MaterialDesignThemes/3.0.1": {
+        "dependencies": {
+          "MaterialDesignColors": "1.2.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "3.0.1.920",
+            "fileVersion": "3.0.1.920"
+          }
+        }
+      },
+      "MaterialDesignThemes.MahApps/0.1.0": {
+        "dependencies": {
+          "MahApps.Metro": "1.6.0",
+          "MaterialDesignColors": "1.2.2",
+          "MaterialDesignThemes": "3.0.1"
+        },
+        "runtime": {
+          "lib/net45/MaterialDesignThemes.MahApps.dll": {
+            "assemblyVersion": "0.1.0.325",
+            "fileVersion": "0.1.0.325"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlzEx/3.0.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5pgvHE329JDDPwPHCVJe93yxu3CPl2wPh6ma1watUAGjvBtNSMkDcyzvwZcHSryihA/y4Ml3OmDYz9vj7Fg6Xg==",
+      "path": "controlzex/3.0.2.4",
+      "hashPath": "controlzex.3.0.2.4.nupkg.sha512"
+    },
+    "MahApps.Metro/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4xMgh1/TVDqhZb7Fh7dlK/0NPVI7GbF+ikTjmS2LV0NcTR+XSR7DCtA16YoIDZvyIUjr0EAGZa6eM1Iryz15w==",
+      "path": "mahapps.metro/1.6.0",
+      "hashPath": "mahapps.metro.1.6.0.nupkg.sha512"
+    },
+    "MaterialDesignColors/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RGy0WREmcn4YcygOlIn4TnvmuVGEM4h7s6Ydw8KQu9igjZPvZm07iXLVgBzNiOtTXVqsGpQ6i7L6aZEXGetWKg==",
+      "path": "materialdesigncolors/1.2.2",
+      "hashPath": "materialdesigncolors.1.2.2.nupkg.sha512"
+    },
+    "MaterialDesignThemes/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EVUgzVjGfJ1Ube9r11iKttOU2cCpYcDAe6kkP5Z1nvytEfBrQFB2DeTEiu51E8Jv+7kN+Jmkx3zwJAr9nYaiHQ==",
+      "path": "materialdesignthemes/3.0.1",
+      "hashPath": "materialdesignthemes.3.0.1.nupkg.sha512"
+    },
+    "MaterialDesignThemes.MahApps/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+DSzXpKQWZbuZpbGQprPEpUaNXEVOxFfzESgsNicul2y1Qw7LbUi511uZHn0lG+SpOkhRrLf6I4dfQw+uQKaaw==",
+      "path": "materialdesignthemes.mahapps/0.1.0",
+      "hashPath": "materialdesignthemes.mahapps.0.1.0.nupkg.sha512"
+    }
+  }
+}

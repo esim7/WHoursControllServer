@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WCheker.Domain/1.0.0": {
+        "runtime": {
+          "WCheker.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WCheker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

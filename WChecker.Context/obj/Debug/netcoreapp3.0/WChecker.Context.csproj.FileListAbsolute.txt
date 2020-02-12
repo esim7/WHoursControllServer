@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\bin\Debug\netcoreapp3.0\WChecker.Context.deps.json
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\bin\Debug\netcoreapp3.0\WChecker.Context.dll
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\obj\Debug\netcoreapp3.0\WChecker.Context.csprojAssemblyReference.cache
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\obj\Debug\netcoreapp3.0\WChecker.Context.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\obj\Debug\netcoreapp3.0\WChecker.Context.AssemblyInfo.cs
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\bin\Debug\netcoreapp3.0\WChecker.Context.pdb
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\bin\Debug\netcoreapp3.0\WCheker.Domain.dll
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\bin\Debug\netcoreapp3.0\WCheker.Domain.pdb
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\obj\Debug\netcoreapp3.0\WChecker.Context.csproj.CopyComplete
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\obj\Debug\netcoreapp3.0\WChecker.Context.dll
+C:\Users\home\source\repos\WCheckerServer\WChecker.Context\obj\Debug\netcoreapp3.0\WChecker.Context.pdb

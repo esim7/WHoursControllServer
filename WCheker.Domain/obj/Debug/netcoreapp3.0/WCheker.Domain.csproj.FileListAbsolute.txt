@@ -1,0 +1,8 @@
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\bin\Debug\netcoreapp3.0\WCheker.Domain.deps.json
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\bin\Debug\netcoreapp3.0\WCheker.Domain.dll
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\bin\Debug\netcoreapp3.0\WCheker.Domain.pdb
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\obj\Debug\netcoreapp3.0\WCheker.Domain.csprojAssemblyReference.cache
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\obj\Debug\netcoreapp3.0\WCheker.Domain.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\obj\Debug\netcoreapp3.0\WCheker.Domain.AssemblyInfo.cs
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\obj\Debug\netcoreapp3.0\WCheker.Domain.dll
+C:\Users\home\source\repos\WCheckerServer\WCheker.Domain\obj\Debug\netcoreapp3.0\WCheker.Domain.pdb
